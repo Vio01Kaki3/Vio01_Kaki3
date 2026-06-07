@@ -32,17 +32,15 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 
 	// 我的及其子菜单
 	links.push({
-		name: "我的",
-		url: "/my/",
-		icon: "material-symbols:person",
-		children: [
-			// 根据配置决定是否添加相册，在siteConfig关闭pages.gallery时导航栏不显示相册
-			...(siteConfig.pages.gallery ? [LinkPreset.Gallery] : []),
-
-			// 根据配置决定是否添加番组计划，在siteConfig关闭pages.bangumi时导航栏不显示番组计划
-			...(siteConfig.pages.bangumi ? [LinkPreset.Bangumi] : []),
-		],
+		name: "相册",
+		url: "/gallery/",
+		icon: "material-symbols:photo-library",
 	});
+	links.push({	
+	name: "日常番剧",
+	url: "/bangumi/",
+	icon: "material-symbols:live-tv",
+});
 
 	// 关于及其子菜单
 	links.push({
@@ -52,16 +50,21 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		children: [
 			// 关于页面
 			LinkPreset.About,
-			// 根据配置决定是否添加留言板，在siteConfig关闭pages.guestbook时导航栏不显示留言板
-			...(siteConfig.pages.guestbook ? [LinkPreset.Guestbook] : []),
+			// 留言板
+			{
+				name: "留言板",
+				url: "/guestbook/",
+				icon: "fa7-solid:message",
+			},
 			// 友情链接页面
 			{
 				name: "朋友们",
 				url: "/friends/",
+				icon: "fa7-solid:user-friends",
 			},
 		],
 	});
-	
+
 	// 仅返回链接，其它导航搜索相关配置在模块顶层常量中独立导出
 	return { links } as NavBarConfig;
 };
