@@ -23,12 +23,12 @@ export const friendsPageConfig: FriendsPageConfig = {
 // 友链配置
 export const friendsConfig: FriendLink[] = [
 	{
-		title: "夏夜流萤",
+		title: "Vio01_Kaki3",
 		imgurl:
-			"https://weavatar.com/avatar/d252655d40d6874417a720bad0a6c5f77f8f6a1fd2f882f8f338402dc37e4190?s=640",
-		desc: "飞萤之火自无梦的长夜亮起，绽放在终竟的明天。",
-		siteurl: "https://blog.cuteleaf.cn",
-		tags: ["Blog"],
+			"file:///C:/Users/25650/Pictures/21312.jpg",
+		desc: "每天都可以吃到美食！",
+		siteurl: "https://blog.qsanj.com",
+		tags: ["Blog"],	
 		weight: 10, // 权重，数字越大排序越靠前
 		enabled: true, // 是否启用
 	},
