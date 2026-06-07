@@ -40,7 +40,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 	src: {
 		// 桌面背景图片（支持单张或多张随机）
 		// desktop: "assets/images/DesktopWallpaper/d1.avif",
-		desktop: "assets/git remote -vimages/DesktopWallpaper/ccat.avif",
+		desktop: "assets/images/DesktopWallpaper/ccat.avif",
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
 		mobile: "assets/images/MobileWallpaper/11.avif",
@@ -61,12 +61,12 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"永远相信美好的事情即将发生！",
+				"海晏河清",
+				"一万年太久，只争朝夕。",
+				"不管风吹浪打，胜似闲庭信步。",
+				"数风流人物，还看今朝。",
+				"雄关漫道真如铁，而今迈步从头越。",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
