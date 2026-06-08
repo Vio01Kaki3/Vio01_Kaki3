@@ -1,6 +1,6 @@
 ---
 title: 第一次坐火车
-published: 2026-06-07
+published: 2026-06-08
 description: 真正意义上的第一次一个人坐火车，还是15个小时! 
 image: ./images/hangzhou/7.jpg
 tags: [火车,，杭州 二零二三]
@@ -15,7 +15,7 @@ draft: false
 17岁，什么也不靠，全靠顶级魔王护，拿下亚运会！
 其实当时我就知道这个薪资对我来说起点太高了
 
-![亚运会](./images/hangzhou/3.jpg)
+![亚运会](./images/hangzhou/9.jpg)
 
 这算是一个进入亚运会前必须通过的地方，我记得有一个像防空炮一样的空调，超级大！风力也老强！！
 
