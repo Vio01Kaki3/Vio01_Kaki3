@@ -8,6 +8,7 @@ category: 宅
 draft: false
 ---
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114210293941440&bvid=BV1QEXhY1EL2&cid=29024323555&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="468"
+src="//player.bilibili.com/player.html?isOutside=true&aid=114210293941440&bvid=BV1QEXhY1EL2&cid=29024323555&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 强烈推荐去看
