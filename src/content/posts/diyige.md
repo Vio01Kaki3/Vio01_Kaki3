@@ -3,7 +3,7 @@ title: 我的第一篇文章
 published: 2026-06-07
 description: 这个博客被我研究一天了，终于是懂一点点了！！
 image: ./assets/images/cat.jpg
-tags: ["第一篇博客", "2026"]
+tags: [第一篇博客, 2026]
 category: 二零二六
 draft: false
 ---
