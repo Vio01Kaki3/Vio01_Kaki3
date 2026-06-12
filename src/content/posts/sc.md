@@ -2,7 +2,7 @@
 title: 风掠吴钩
 published: 2026-06-12
 description: 江声未歇，故人已亡
-image: ./images/zysc/3.jpg
+image: ./images/zysc/2.jpg
 tags: [随笔,孙策]
 category: 随笔
 draft: false
