@@ -1,7 +1,7 @@
 ---
 title: 我的姐姐
 published: 2026-08-01
-description: 真正意义上的第一次一个人坐火车，还是15个小时! 
+description: 我最美丽善良幸富的姐姐结婚啦！！！
 image: ./images/sister.jpg
 tags: [姐姐,]
 category: 姐姐
