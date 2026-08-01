@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "记录学习和生活的点滴，分享技术和创作的乐趣。",
 
 	// 站点 URL
-	site_url: "https://qsanj.com/",
+	site_url: "https://blog.qsanj.com/",
 
 	// 站点描述
 	description:
